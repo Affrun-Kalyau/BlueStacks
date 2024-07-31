@@ -11,7 +11,10 @@ Why Download from GitHub?
 GitHub hosts the official repository for BlueStacks, providing access to the latest updates, bug fixes, and features. It also ensures the software's integrity and security, as the code is open for review and contributions from the community.
 Features
 
-  **High Performance:** BlueStacks offers a smooth and fast Android experience on your computer.
-  **Compatibility:** Supports a wide range of apps and games.
-  **User-Friendly:** Easy to install and use with a simple interface.
-  **Frequent Updates:** Regular updates ensure you always have the best performance and latest features.
+  👉**High Performance:** BlueStacks offers a smooth and fast Android experience on your computer.
+  
+  👉**Compatibility:** Supports a wide range of apps and games.
+  
+  👉**User-Friendly:** Easy to install and use with a simple interface.
+  
+  👉**Frequent Updates:** Regular updates ensure you always have the best performance and latest features.
